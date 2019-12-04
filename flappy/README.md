@@ -1,41 +1,23 @@
-# Flappy Bird JS
+flappy-html5-bird
+=================
 
-A simple Flappy Bird game developed with HTML, CSS, and Vanilla JS.
+### 这是啥？
 
-
-![](images/flappy-bird-demo.gif)
-
-
-Developed using:
-* HTML 5
-* CSS 3
-* JavaScript
-
-No plugins, no libraries. Just Vanilla JS. 
-
-[Live demo](http://nathanssantos.github.io/flappy-bird-js)
+这是 flappy bird 的 html5 版本。除了 jQuery 没有用什么其他框架。很基础。
 
 
-## Usage instructions
+### try it
 
-[Download the project](https://github.com/nathanssantos/flappy-bird-js/archive/master.zip) and open `index.html` on your browser.
-
-Press any key on the keyborad to make the bird fly.
-Refresh the page to restart the game (not finished yet).
+在这里试玩：
+http://ben7th.github.io/flappy-html5-bird/
 
 
-## To do
+### change log
 
-* Game menu
-* "Game Over" modal with the player's score and a restart function
-* Difficulty menu with barriers gap and speed selection
+2014.02.16 - 0.0.3<br/>
+将鸟翅膀上下扇动的动作改为纯CSS3实现，以提升效率；<br/>
+略微加快了鸟翅膀上下扇动的速度(0.4s to 0.3s)<br/>
+略微扩大了管子开口随机的范围(上下各增加了10像素)<br/>
 
-
-## Authors
-
-Nathan S. Santos - [LinkedIn](https://www.linkedin.com/in/nathan-s-santos-4b2637163/) / [GitHub](https://github.com/nathanssantos) 
-
-
-## License
-
-This project is licensed under the MIT License - see [LICENSE.md](LICENSE.md) for details.
+2014.02.17 - 0.0.4<br/>
+调整了一些场景数值<br/>
