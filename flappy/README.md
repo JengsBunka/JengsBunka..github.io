@@ -1,23 +1,26 @@
-flappy-html5-bird
-=================
+CrappyBird
+==========
 
-### 这是啥？
-
-这是 flappy bird 的 html5 版本。除了 jQuery 没有用什么其他框架。很基础。
+Clone of Flappy Bird game in JavaScript and Canvas 2D
 
 
-### try it
+The MIT License
+----
+Copyright (c) 2014 Varun Pant
 
-在这里试玩：
-http://ben7th.github.io/flappy-html5-bird/
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+**Here are some screen shots**
+
+![Heat map classic theme](https://github.com/varunpant/CrappyBird/blob/master/SS1.PNG?raw=true=50x20)
+![Heat map classic theme](https://github.com/varunpant/CrappyBird/blob/master/SS2.PNG?raw=true=50x20)
+
+![Heat map classic theme](https://github.com/varunpant/CrappyBird/blob/master/SS3.PNG?raw=true=50x20)
+![Heat map classic theme](https://github.com/varunpant/CrappyBird/blob/master/SS4.PNG?raw=true=50x20)
 
 
-### change log
-
-2014.02.16 - 0.0.3<br/>
-将鸟翅膀上下扇动的动作改为纯CSS3实现，以提升效率；<br/>
-略微加快了鸟翅膀上下扇动的速度(0.4s to 0.3s)<br/>
-略微扩大了管子开口随机的范围(上下各增加了10像素)<br/>
-
-2014.02.17 - 0.0.4<br/>
-调整了一些场景数值<br/>
+Play it [here](http://varunpant.com/static/resources/CrappyBird/index.html)
